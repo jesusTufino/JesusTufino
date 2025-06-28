@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I´m Jesus!
 
-<!--
-**jesusTufino/JesusTufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• I am a BackEnd developer from [México, Ciudad de México](https://www.youtube.com/watch?v=k0E5zr9HdGE&pp=ygUYdHVyaXNtbyBjaXVkYWQgZGUgbWV4aWNv)
 
-Here are some ideas to get you started:
+•🚀 Apasionado por resolver problemas reales con soluciones elegantes. Valoro el aprendizaje continuo, el trabajo en equipo y escribir código que mis futuros yo (¡y otros!) puedan entender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack
+
+    • 🟣 C# / .NET (Core, 6, 7, 8)
+
+    • 🗂️ Entity Framework Core
+
+    •💻 JavaScript / JSX / React / DevExtreme
+
+    • 🌐 Web APIs (REST)
+
+    • 📱 .NET MAUI (Android, iOS, Windows, Mac)
+
+    • 🗄️ SQL Server, SQLite
+
+    • ⚡ LINQ / MVVM / XAML
+
+    • 📸 MAUI MediaPicker, MediaElement
+
+    • 📦 Excel Data Import/Export
+
+    • 🛠️ Git / GitHub
+
+    • 🏷️ Barcode Scanning
+
+    • 🆔 Fingerprint Scanner / Lector de Huellas
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JesusTufino&theme=dracula)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusTufino&layout=compact)
